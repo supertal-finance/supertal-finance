@@ -1,0 +1,142 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-weight: 100px;
+}
+
+.commonLeftCol {
+    text-align: left;
+    padding-right: 30px;
+}
+
+.commonMidCol {
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.commonRightCol {
+    text-align: right;
+}
+
+
+
+.riCol1 {
+    text-align: right;
+    padding-left: 20px;
+}
+
+.riCol2 {
+    text-align: left;
+    padding-right: 40px;
+}
+
+.riCol3 {
+    text-align: left;
+    padding-right: 15px;
+}
+
+.riCol4 {
+    text-align: right;
+    padding-left: 30px;
+}
+
+.riCol5 {
+    text-align: right;
+    padding-left: 30px;
+}
+
+
+.advH0 {
+    text-align: left;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+.advH1 {
+    text-align: left;
+    padding-right: 40px;
+}
+
+.advH1usd {
+    text-align: left;
+    padding-right: 50px;
+}
+
+.advH2 {
+    text-align: left;
+    padding-right: 30px;
+}
+
+.advH3 {
+    text-align: left;
+    padding-right: 20px;
+}
+
+.advH4 {
+    text-align: left;
+    padding-right: 15px;
+}
+
+.advH5 {
+    text-align: left;
+    padding-right: 15px;
+}
+
+
+.salCol1 {
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.salCol3 {
+    min-width: 250px;
+}
+
+.salCol4 {
+    text-align: right;
+    min-width: 100px;
+}
+
+.salCol67 {
+    text-align: center;
+    min-width: 80px;
+}
+
+.salCol9 {
+    text-align: right;
+    min-width: 80px;
+}
+
+.salCol17 {
+    text-align: left;
+    padding-left: 10px;
+    min-width: 230px;
+}
+
+.salTotalSalaryHeading {
+    text-align: right;
+}
+
+.salLastRows{
+    text-align: right;
+}
+
+.invoiceHeader{
+    text-align: center;
+}
+
+.invoiceMainContentBody{
+    text-align: center;
+    vertical-align: text-top;
+    padding-top: 5px;
+    font-size: 13px;
+}
+
+.invoiceMainContentCalculations{
+    text-align: center;
+    font-size: 13px;
+}
