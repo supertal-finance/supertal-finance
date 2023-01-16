@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/supertal-finance/static/css/main.569c45ce.css",
+    "main.js": "/supertal-finance/static/js/main.249c363a.js",
+    "static/js/703.eaf89838.chunk.js": "/supertal-finance/static/js/703.eaf89838.chunk.js",
+    "static/js/347.655621e2.chunk.js": "/supertal-finance/static/js/347.655621e2.chunk.js",
+    "static/js/787.279fe1f1.chunk.js": "/supertal-finance/static/js/787.279fe1f1.chunk.js",
+    "static/media/supertal_logo.png": "/supertal-finance/static/media/supertal_logo.c26e4e2b3b63ce285b7c.png",
+    "index.html": "/supertal-finance/index.html",
+    "main.569c45ce.css.map": "/supertal-finance/static/css/main.569c45ce.css.map",
+    "main.249c363a.js.map": "/supertal-finance/static/js/main.249c363a.js.map",
+    "703.eaf89838.chunk.js.map": "/supertal-finance/static/js/703.eaf89838.chunk.js.map",
+    "347.655621e2.chunk.js.map": "/supertal-finance/static/js/347.655621e2.chunk.js.map",
+    "787.279fe1f1.chunk.js.map": "/supertal-finance/static/js/787.279fe1f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.569c45ce.css",
+    "static/js/main.249c363a.js"
+  ]
+}
